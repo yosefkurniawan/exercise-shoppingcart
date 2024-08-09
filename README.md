@@ -57,3 +57,6 @@ Build a simple e-commerce shopping cart application using JavaScript, React, and
 - Provide a link to a GitHub repository containing your code.
 - Include a `README.md` file with instructions on how to set up and run your application.
 - Mention any additional libraries or tools you used and explain your reasoning.
+
+## Result
+![image](https://github.com/user-attachments/assets/1b7f0f65-ab23-4acf-9de0-85c2d2fde229)
